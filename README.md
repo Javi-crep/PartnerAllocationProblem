@@ -14,11 +14,13 @@ cd PartnerAllocationProblem
 3 - Ensure that MATLAB R2023b is installed with all the necessary packages described in the thesis document
 
 ## Usage
-1 - Open MATLAB
+1 - Extract the excel file from the zip and add the path in line 6 of the Main.m script
 
-2 - Add the project directory to the MATLAB path
+2 - Open MATLAB
 
-3 - Run the main script: Main.m
+3 - Add the project directory to the MATLAB path
+
+4 - Run the main script: Main.m
 
 ## Repository Contents
 1 - Main Script to run the algorithm
