@@ -18,6 +18,11 @@ cd PartnerAllocationProblem
 2 - Add the project directory to the MATLAB path
 3 - Run the main script: Main.m
 
+## Repository Contents
+1 - Main Script to run the algorithm
+2 - Auxiliary functions for specific tasks
+3 - Excel and zip file with EUROCONTROL data used
+
 ## Author
 Javier Crespo Núñez - [GitHub Profile](https://github.com/Javi-crep)
 
