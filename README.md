@@ -15,7 +15,9 @@ cd PartnerAllocationProblem
 
 ## Usage
 1 - Open MATLAB
+
 2 - Add the project directory to the MATLAB path
+
 3 - Run the main script: Main.m
 
 ## Repository Contents
